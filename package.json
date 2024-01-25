@@ -1,0 +1,9 @@
+{
+  "name": "husky-bug",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.0.1"
+  }
+}
